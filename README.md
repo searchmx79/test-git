@@ -6,4 +6,4 @@ Repositorio prueba
 
 Ejercicios de git
 ![](gitlog.png)
-![](Network.png)
+![](Network.PNG)
